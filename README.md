@@ -24,7 +24,7 @@ Digital Tax Filing System is a Java-based application developed using NetBeans. 
 6. Run the project from NetBeans.
 
 ## Author
-Dinul Wickramasinghe
+Anuja Sandil
 
 ## Purpose
 This project was developed for academic purposes.
