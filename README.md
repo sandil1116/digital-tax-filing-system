@@ -1,30 +1,38 @@
 # Digital Tax Filing System
 
-## Overview
-Digital Tax Filing System is a Java-based application developed using NetBeans. The system is designed to support digital tax-related record management and filing processes.
+##  Overview
+The Digital Tax Filing System is a Java-based application developed using NetBeans. It helps users manage and process tax-related information efficiently.
 
-## Features
+---
+
+##  Features
 - Add and manage tax records
-- User-friendly Java interface
+- User-friendly interface
+- Organized NetBeans project structure
 - Data processing for tax filing
-- Organized project structure using NetBeans
 
-## Technologies Used
+---
+
+##  Technologies Used
 - Java
 - NetBeans IDE
-- Swing / Java GUI
-- MySQL / Database connection if used
+- Swing (GUI)
+- MySQL (if used)
 
-## How to Run
-1. Clone or download this repository.
-2. Open NetBeans.
-3. Go to File > Open Project.
-4. Select the project folder.
-5. Clean and Build the project.
-6. Run the project from NetBeans.
+---
 
-## Author
+##  How to Run
+1. Open NetBeans
+2. Click File → Open Project
+3. Select this project folder
+4. Click Run
+
+---
+
+##  Author
 Anuja Sandil
 
-## Purpose
-This project was developed for academic purposes.
+---
+
+##  Purpose
+Developed for academic purposes.
